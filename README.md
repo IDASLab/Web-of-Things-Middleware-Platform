@@ -67,7 +67,7 @@ To setup your hardware on Raspberry-Pi, follow this instruction according to [sc
 
 5. If the application works well and perfect, you should see some kind of result on terminal screen.
         
-    ![The Promised Running Result](https://raw.githubusercontent.com/IDAS-Labratory/Web-of-Things-Middleware-Platform-/master/docs/img/running_app_status.png?raw=true "Running Result")
+    ![The Promised Running Result](https://https://github.com/IDAS-Labratory/Web-of-Things-Middleware-Platform-/blob/master/docs/img/running_app_status.png?raw=true "Running Result")
 
 6. Now open your browser, on the Raspberry- Pi or on the other device on the same network, and test the program by entering this API: `http://Raspberry_IP:8080/`.
 
