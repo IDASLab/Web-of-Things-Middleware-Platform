@@ -52,7 +52,7 @@ To setup your hardware on Raspberry-Pi, follow this instruction according to [sc
 
 7. Congratulation, your hardware project is ready! :clap: :dancer:
 
-![The Schematic of Hardware assembling](http://via.placeholder.com/200x150 "Web of Things Hardware Schematic")
+![The Schematic of Hardware assembling](https://github.com/IDAS-Labratory/Web-of-Things-Middleware-Platform-/blob/master/docs/img/WoT%20Sketch.png?raw=true "Web of Things Hardware Schematic")
 
 ### Software Setup
 
@@ -67,7 +67,7 @@ To setup your hardware on Raspberry-Pi, follow this instruction according to [sc
 
 5. If the application works well and perfect, you should see some kind of result on terminal screen.
         
-    ![The Promised Running Result](./docs/running_app_status.png "Running Result")
+    ![The Promised Running Result](https://raw.githubusercontent.com/IDAS-Labratory/Web-of-Things-Middleware-Platform-/master/docs/img/running_app_status.png?raw=true "Running Result")
 
 6. Now open your browser, on the Raspberry- Pi or on the other device on the same network, and test the program by entering this API: `http://Raspberry_IP:8080/`.
 
@@ -120,7 +120,7 @@ The main goal of Middleware, in such IoT architecture, is to act like a intermed
 Things layer is such devices or sensors that we used in our work. In this system, Raspberry-Pi as main server, is enable us to connect these sensors (DHT11 and PIR) and actuators (LEDs) directly by using some GPIOs.
 
 
-![Architecture of WoT Middleware Platform](http://via.placeholder.com/200x150 "System Architecture")
+![Architecture of WoT Middleware Platform](https://github.com/IDAS-Labratory/Web-of-Things-Middleware-Platform-/blob/master/docs/img/system%20architecture.png?raw=true "System Architecture")
 
 ### Module Structure
 
