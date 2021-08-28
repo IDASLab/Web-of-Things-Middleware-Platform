@@ -1,0 +1,27 @@
+{
+  "name": "P02-WoT_Project",
+  "version": "2.1.0",
+  "description": "This project is define to develop and test the Web of Things Middleware platform.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js"
+  },
+  "keywords": [
+    "Raspberry-Pi",
+    "Web of Things",
+    "Internet of Things"
+  ],
+  "Developer_Teams": "IDAS Lab Development Team",
+  "license": "",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "cors": "^2.7.1",
+    "express": "^4.12.4",
+    "node-json2html": "^1.0.0",
+    "msgpack5": "^3.3.0",
+    "ws": "3.3.2",
+    "node-dht-sensor": "^0.0.8",
+    "onoff": "^1.2.0"
+  }
+}

@@ -1,0 +1,60 @@
+{
+    "pi": {
+      "name": "WoT Pi",
+      "port": 8080,
+      "sensors": {
+        "temperature": {
+          "name": "Temperature Sensor",
+          "description": "An ambient temperature sensor.",
+          "unit": "celsius",
+          "value": 0,
+	        "critical": 1000,
+          "interval": 5000,
+          "gpio": 14
+        },
+        "humidity": {
+          "name": "Humidity Sensor",
+          "description": "An ambient humidity sensor.",
+          "unit": "%",
+          "value": 0,
+          "interval": 5000,
+          "gpio": 14
+        },
+        "PIR":{
+          "name": "Motion Detector",
+          "description": "An ambient motion detector sensor.",
+          "value": false,
+          "lock": false,
+          "gpio": 21
+        }
+      },
+      "actuators": {
+        "leds": {
+          "1": {
+            "name": "LED 1",
+            "description": "A Red LED.",
+            "value": false,
+            "gpio": 25
+          },
+          "2": {
+            "name": "LED 2",
+            "description": "A Green LED.",
+            "value": false,
+            "gpio": 8
+          },  
+          "3": {
+            "name": "LED 3",
+            "description": "A Blue LED.",
+            "value": false,
+            "gpio": 7
+          },
+          "alert": {
+            "name": "Alert LED",
+            "description": "A Red Alert LED.",
+            "value": false,
+            "gpio": 20
+          }
+        }
+      }
+    }
+  }
