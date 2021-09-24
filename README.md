@@ -105,7 +105,7 @@ The main architecture of this system is based on __Layered Architecture Style__ 
 
 
 ### Software Architecture
-As depicted on [system architecture](#Architecture-of-WoT-Middleware-Platform), include three major layer as Application, Middleware, and Things layer that each of them is responsible to support some system functionalities. In following, we detail each layer. 
+As depicted on [system architecture](#Architecture-of-WoT-Middleware-Platform), include three major layers as Application, Middleware, and Things layer that each of them is responsible to support some system functionalities. In following, we detail each layer. 
 
 #### Application Layer
 
