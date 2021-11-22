@@ -168,6 +168,6 @@ src/
  
  - You can learn more about Web of Things in [W3C](https://www.w3.org/WoT/) or Web of Things official [Website](https://www.webofthings.org/).
 
- - Of cource, if want to learn how is Internet of Things and what it works, you can learn a lot in IBM official [blog](https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/)
+ - Of cource, if you want to learn how is Internet of Things and what its works, you can learn a lot in IBM official [blog](https://www.ibm.com/blogs/internet-of-things/what-is-the-iot/)
 
  - If you have not any clues of how you programming with _Node.js_ and Raspberry-Pi, [W3Schools](https://www.w3schools.com/nodejs/default.asp) has some helpful tuterials. 
